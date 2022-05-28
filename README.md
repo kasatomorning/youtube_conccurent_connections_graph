@@ -6,3 +6,6 @@ YouTube APIを利用してグラフを表示させます。
 2. 変数channelURLにYouTubeチャンネルのURLを代入します(例：channelURL = "https://www.youtube.com/channel/UCXXXXXXX")。
 3. Prometheus出力用のサーバーが8000ポートで立ちます。
 
+## サンプル画像
+
+<img src="/images/samplegraph.png" style="zoom: 50%;" />
